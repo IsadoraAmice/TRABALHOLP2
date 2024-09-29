@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/TRABALHOLP2/static/css/main.d221dc40.css",
+    "main.js": "/TRABALHOLP2/static/js/main.6055f3e3.js",
+    "static/media/pagina404.png": "/TRABALHOLP2/static/media/pagina404.4bf0805d8d55a31c5142.png",
+    "index.html": "/TRABALHOLP2/index.html",
+    "main.d221dc40.css.map": "/TRABALHOLP2/static/css/main.d221dc40.css.map",
+    "main.6055f3e3.js.map": "/TRABALHOLP2/static/js/main.6055f3e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.6055f3e3.js"
+  ]
+}
